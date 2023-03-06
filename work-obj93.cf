@@ -1,0 +1,107 @@
+v 4
+file . "detectorNZ.vhdl" "a917b8500998caaf6bb923e9779d84a1d6f67bbd" "20210919144931.119":
+  entity detectornz at 1( 0) + 0 on 11885;
+  architecture comuta of detectornz at 11( 187) + 0 on 11886;
+file . "detectorN.vhdl" "7088f5df3a1a63c56150a45e37b9d51178de5671" "20210919125742.182":
+  entity detectorn at 1( 0) + 0 on 11183;
+  architecture comuta of detectorn at 11( 166) + 0 on 11184;
+file . "MD.vhdl" "513728d6409efd35dc4d6aa7744a3b2362f914ae" "20210919144931.123":
+  entity md at 1( 0) + 0 on 11899;
+  architecture comuta of md at 15( 386) + 0 on 11900;
+file . "DEC.vhdl" "d59fbaf3716af3e90c1790a2c7b16858d91e2551" "20210919144931.119":
+  entity dec at 1( 0) + 0 on 11883;
+  architecture comuta of dec at 12( 214) + 0 on 11884;
+file . "NEANDER.vhdl" "6506449abd178d93ca7b95b432b24598358cef9f" "20210919144931.125":
+  entity neander at 1( 0) + 0 on 11903;
+  architecture comuta of neander at 11( 149) + 0 on 11904;
+file . "mux2x8.vhdl" "56ceacae9ce01d7d762d95a8e2cd733c09383115" "20210914005121.037":
+  entity mux2x8 at 1( 0) + 0 on 8561;
+  architecture comuta of mux2x8 at 14( 289) + 0 on 8562;
+file . "MEM.vhdl" "c6bc7e34fed909bcc0e17d95d943a8bc90b04437" "20210919144931.124":
+  entity mem at 1( 0) + 0 on 11901;
+  architecture comuta of mem at 13( 305) + 0 on 11902;
+file . "as_ram.vhdl" "40533341116c46fd3cda8e381cc9f265ad9c104f" "20210919144931.115":
+  entity as_ram at 2( 42) + 0 on 11873;
+  architecture behavior of as_ram at 16( 325) + 0 on 11874;
+file . "ULA_INIT.vhdl" "b4490d77c87017946d2d4027e9a6d267df15bd18" "20210919144931.131":
+  entity ula_init at 1( 0) + 0 on 11923;
+  architecture comuta of ula_init at 14( 317) + 0 on 11924;
+file . "reg08bitC.vhdl" "1682bc0a9499247334f9413d902898e056fdbd94" "20210919144931.129":
+  entity reg08bitc at 1( 0) + 0 on 11917;
+  architecture reg of reg08bitc at 16( 327) + 0 on 11918;
+file . "reg01bitC.vhdl" "f6848f7f9e9dfc30cc60e66f15ef148945fea926" "20210919144931.128":
+  entity reg01bitc at 1( 0) + 0 on 11913;
+  architecture reg of reg01bitc at 14( 262) + 0 on 11914;
+file . "mux2x8_bonito.vhdl" "54a7bf6e2f4a7f8c802521ea497c74de021e03bd" "20210825021324.811":
+  entity mux2x8_bonito at 1( 0) + 0 on 39;
+  architecture comuta of mux2x8_bonito at 10( 202) + 0 on 40;
+file . "fadder.vhdl" "3ad624f4d503a4116ce61a60ace69157c98eb997" "20210919144931.120":
+  entity fadder1 at 1( 0) + 0 on 11889;
+  architecture behavior_tb of fadder1 at 14( 236) + 0 on 11890;
+file . "fadder8.vhdl" "ae283be9296a281f0dd09a91e1ee2214cd261c62" "20210919144931.120":
+  entity fadder8 at 1( 0) + 0 on 11887;
+  architecture behavior_tb of fadder8 at 15( 275) + 0 on 11888;
+file . "00-ffJKTD.vhdl" "9e091ef96e76ef2e131591b14b3a98473bf15fe7" "20210919144931.112":
+  entity ffjk at 2( 70) + 0 on 11863;
+  architecture latch of ffjk at 14( 316) + 0 on 11864;
+  entity ffd at 72( 2349) + 0 on 11865;
+  architecture latch of ffd at 84( 2594) + 0 on 11866;
+  entity fft at 105( 3028) + 0 on 11867;
+  architecture latch of fft at 117( 3273) + 0 on 11868;
+file . "reg02btC.vhdl" "b191975244fef1c080892df75f2cba59b384ff1b" "20210919144931.128":
+  entity reg02bitc at 1( 0) + 0 on 11915;
+  architecture reg of reg02bitc at 14( 288) + 0 on 11916;
+file . "ULA_MID.vhdl" "b1c23444adfb01d5fa15a8681410bc738599630b" "20210919144931.132":
+  entity ula_mid at 1( 0) + 0 on 11925;
+  architecture comuta of ula_mid at 14( 331) + 0 on 11926;
+file . "tb_NEANDER.vhdl" "b4891d38f1e125bed86dea240c489a8fcf717cab" "20210919144931.130":
+  entity tb_neander at 1( 0) + 0 on 11921;
+  architecture ulinha of tb_neander at 8( 104) + 0 on 11922;
+file . "PC.vhdl" "19a8c4c39d3c5e45526534c091dc4f537adfd9ab" "20210919144931.127":
+  entity pc at 1( 0) + 0 on 11911;
+  architecture comuta of pc at 13( 260) + 0 on 11912;
+file . "CU.vhdl" "4a45eb9d11c4851a3e0398389cd0c83c0a49133c" "20210919144931.118":
+  entity cu at 1( 0) + 0 on 11881;
+  architecture comuta of cu at 16( 436) + 0 on 11882;
+file . "detectorZ.vhdl" "d6dcb525196524afdc01cab097fb6db6747e5a57" "20210919125742.182":
+  entity detectorz at 1( 0) + 0 on 11185;
+  architecture comuta of detectorz at 11( 166) + 0 on 11186;
+file . "add.vhdl" "121ccb6f44961a9491470b0d0123017d199dc502" "20210919144931.113":
+  entity add at 1( 0) + 0 on 11869;
+  architecture comuta of add at 14( 326) + 0 on 11870;
+file . "and.vhdl" "82e04729cf979c3d12507af5c079d74265d830fe" "20210919144931.114":
+  entity aand at 1( 0) + 0 on 11871;
+  architecture comuta of aand at 14( 327) + 0 on 11872;
+file . "contador_ctrl_jk.vhdl" "002ff246f1deaf96cb408a2ee9a8e7c4751801a1" "20210919144931.116":
+  entity ctrljk at 1( 0) + 0 on 11875;
+  architecture controle of ctrljk at 11( 189) + 0 on 11876;
+file . "contador.vhdl" "4c7e4044762953a16478af0813feeb4c19effe3f" "20210919144931.116":
+  entity contador at 1( 0) + 0 on 11877;
+  architecture contar of contador at 11( 186) + 0 on 11878;
+file . "CU_INIT.vhdl" "8b398596674f3a8b900adde50b1197a14c2e1e15" "20210919144931.117":
+  entity cu_init at 1( 0) + 0 on 11879;
+  architecture comuta of cu_init at 14( 325) + 0 on 11880;
+file . "hlt.vhdl" "f7e83c253b0f61a302d4c0d40c031daac854f510" "20210919144931.121":
+  entity hlt at 1( 0) + 0 on 11891;
+  architecture comuta of hlt at 14( 326) + 0 on 11892;
+file . "jnz.vhdl" "6c001a832d6dbe5aae9f4473597290886bbab1a2" "20210919144931.121":
+  entity jnz at 1( 0) + 0 on 11893;
+  architecture comuta of jnz at 14( 326) + 0 on 11894;
+file . "jpm.vhdl" "84c22a507c34be9697d687b6f001ad2cd0cacfb1" "20210919144931.122":
+  entity jmp at 1( 0) + 0 on 11895;
+  architecture comuta of jmp at 14( 326) + 0 on 11896;
+file . "lda.vhdl" "6e5e8366534c47c9c5a17efd85794da0344f60d1" "20210919144931.123":
+  entity lda at 1( 0) + 0 on 11897;
+  architecture comuta of lda at 14( 326) + 0 on 11898;
+file . "nop.vhdl" "bf7259bb7a182d677d25d4ee3e00254597939027" "20210919144931.125":
+  entity nop at 1( 0) + 0 on 11905;
+  architecture comuta of nop at 14( 326) + 0 on 11906;
+file . "not.vhdl" "301901d1430d392bfde39add68d7700207021baf" "20210919144931.126":
+  entity nnot at 1( 0) + 0 on 11907;
+  architecture comuta of nnot at 14( 327) + 0 on 11908;
+file . "or.vhdl" "3e01707240ffb2cd2bce5e826f3bcaa9247a61f1" "20210919144931.126":
+  entity oor at 1( 0) + 0 on 11909;
+  architecture comuta of oor at 14( 326) + 0 on 11910;
+file . "sta.vhdl" "fac4baec44049a2ff852d3ce3472e500dbb3a167" "20210919144931.130":
+  entity sta at 1( 0) + 0 on 11919;
+  architecture comuta of sta at 14( 326) + 0 on 11920;
